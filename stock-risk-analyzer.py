@@ -10,7 +10,7 @@ from openpyxl.drawing.image import Image
 #----------- SETTINGS ---------
 
 TICKER = "MSFT"
-FOLDER = "/Users/tuao/Documents/python.projects/"
+FOLDER = ""
 PERIOD = "1y"
 
 #-----------DATA----------
