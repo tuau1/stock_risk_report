@@ -9,9 +9,9 @@ from openpyxl.drawing.image import Image
 
 #----------- SETTINGS ---------
 
-TICKER = "MSFT"
+TICKER = "SPY"
 FOLDER = ""
-PERIOD = "1y"
+PERIOD = "3y"
 
 #-----------DATA----------
 
